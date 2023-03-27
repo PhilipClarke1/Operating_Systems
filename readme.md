@@ -2,4 +2,4 @@
 
 A collection of projects from CMS 470: Operating Systems
 
-[Multi-Threaded Sorting](./Multi-Threaded%20Sorting)
+[Multi-Threaded Sorting](./Multi-Threaded%20Sorting/)
